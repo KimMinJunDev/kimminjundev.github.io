@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Kim-Minjun Blog                          # the main title
+title: Kim-Minjun Tech Blog                          # the main title
 
-tagline: Software Engineer  # it will display as the sub-title
+tagline: I love chicken.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
